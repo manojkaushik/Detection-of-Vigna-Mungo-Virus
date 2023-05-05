@@ -7,7 +7,7 @@ This work proposes an automatic deep-learning-based viral infection detection me
 <img src="figure/framework.jpg"/>
 
 ## CNN diagram
-<img src="figure/cnn.png"/>
+<img src="figure/cnn.jpg"/>
 
 ## Segmentation flow chart
 <img src="figure/segmentation.jpg"/>
