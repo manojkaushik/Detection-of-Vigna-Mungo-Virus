@@ -18,7 +18,7 @@ This work proposes an automatic deep-learning-based viral infection detection me
 
 ## Citation
 
-If you use [Vigna Mungo Virus Analysis](https://github.com/manojkaushik/Detection-of-Vigna-Mungo-Virus) code in your research, we would appreciate a citation to both the original paper:
+If you use [Vigna Mungo Virus Analysis](https://github.com/manojkaushik/Detection-of-Vigna-Mungo-Virus) code in your research, we would appreciate a citation to the original paper:
 
 "*Joshi, Rakesh Chandra, et al. "VirLeafNet: Automatic analysis and viral disease diagnosis using deep-learning in Vigna mungo plant." Ecological Informatics 61 (2021): 101197.*"
 
